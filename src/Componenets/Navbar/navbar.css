@@ -1,0 +1,14 @@
+
+.nav-parent {
+	height: 42px;
+}
+
+.navbar {
+	display: flex;
+	text-align: center;
+	background: #283e4a;
+	justify-content: space-around;
+	height: 10px;
+	width: 100%;
+	position: fixed;
+}

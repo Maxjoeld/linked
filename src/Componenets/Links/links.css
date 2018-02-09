@@ -1,0 +1,22 @@
+.links {
+	display: flex;
+	justify-content: center;
+}
+.links .link {
+	color: #c7d1d8;
+	padding: 7px 15px 0px 15px;
+	font-size: 11px;
+}
+
+.links .link:hover {
+	color: #fff;;
+}
+
+.links .icon {
+	font-size: 17px;
+}
+
+.links .premium {
+	color: #dccea4;
+	padding-top: 2px;
+}
